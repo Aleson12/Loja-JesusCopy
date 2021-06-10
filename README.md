@@ -1,2 +1,1 @@
-# Projeto-Pessoal
- pequeno teste de um projeto 
+# Loja JesusCopy Logo
